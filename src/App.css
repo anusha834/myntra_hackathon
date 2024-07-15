@@ -1,0 +1,45 @@
+.app {
+  text-align: center;
+}
+
+.app-header {
+  background-color: #fff;
+  padding: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+}
+
+.app-header h1 {
+  font-size: 2em;
+  margin: 0;
+}
+
+.upload-btn {
+  margin-top: 10px;
+  padding: 10px;
+  font-size: 1em;
+  background-color:#FF877D ;
+  border-radius: 20px;
+  
+  padding: 20px;
+  width: 200px;
+  height: 20px;
+}
+
+.categories {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.logo{
+  height: 89px;
+  position: absolute;
+  top: 8px;
+  left: 16px;
+}
+
+.navbar{
+  width: 100%;
+
+}

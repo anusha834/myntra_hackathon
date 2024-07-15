@@ -1,0 +1,32 @@
+.category-card {
+    width: 470px;
+    height: 700px;
+    /* border: 1px solid #ccc; */
+    border-radius: 10px;
+    overflow: hidden;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 10px;
+    background-color: #FAEAF2;
+    
+    margin: 2%;
+  }
+  
+  .category-card img {
+    
+    width: 100%;
+    height: 85%;
+  }
+  
+  .category-card .label {
+    padding: 10px;
+    font-size: 2.5em;
+    font-weight: 600;
+    font-family: 'Monaco';
+    padding-top: 7%;
+    color: #ff6b5e;
+  
+  }
+
+  
+  
